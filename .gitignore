@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+# Datos generados por la simulación
+db_*.csv
+Auditoria_FIS_Final.json
+*.log
+# Entornos virtuales
+venv/
+.env
+# VS Code
+.vscode/
