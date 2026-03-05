@@ -1,27 +1,22 @@
 {
     "metadatos": {
-        "fecha_ejecucion": "2026-03-02 09:53:59",
-        "analista_lider": "Fredy Alejandro Sarmiento Torres",
-        "proyecto": "Symbiomemesis (FIS Framework)",
-        "institucion": "Universidad del Rosario"
+        "fecha": "2026-03-05 11:50:29",
+        "analista": "Fredy Alejandro Sarmiento Torres",
+        "modo": "Omni-Power Resiliente"
     },
-    "resultados_financieros": {
-        "directos": 760000.0,
+    "financiero": {
+        "directos": 760000,
         "indirectos": 25000.0,
         "total": 785000.0
     },
-    "indicadores_ingenieria": {
+    "ingenieria": {
         "CR": 0.96,
         "F": 0.98,
         "wi": 1.0,
+        "U": 5.9388,
         "dIM": 0.92,
         "dT": 0.88,
         "IC": 0.85,
-        "SC": 0.92,
-        "U": 5.9388
-    },
-    "conclusiones": {
-        "estado": "SIMBIOSIS",
-        "mensaje": "El sistema demuestra una eficiencia operativa superior al 100%."
+        "SC": 0.92
     }
 }

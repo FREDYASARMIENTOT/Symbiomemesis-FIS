@@ -1,0 +1,7 @@
+# Dependencias Nucleares Symbiomemesis
+pandas
+numpy
+pydantic>=2.0.0
+tapeagents
+python-dotenv
+litellm
